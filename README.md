@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
