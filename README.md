@@ -11,11 +11,13 @@
 | [0088-merge-sorted-array](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,9 +36,19 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
