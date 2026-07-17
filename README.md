@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -36,6 +37,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0724-find-pivot-index) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
