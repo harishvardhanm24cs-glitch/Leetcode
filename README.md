@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0268-missing-number) |
+| [0724-find-pivot-index](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
