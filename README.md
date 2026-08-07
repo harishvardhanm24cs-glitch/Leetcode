@@ -22,6 +22,7 @@
 | [0217-contains-duplicate](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0125-valid-palindrome](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -82,4 +84,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/harishvardhanm24cs-glitch/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
